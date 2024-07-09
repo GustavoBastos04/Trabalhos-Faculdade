@@ -1,0 +1,3 @@
+# Gerador de Relatórios
+
+Exercício de Programação da disciplina de Computação Orientada a Objetos ministrada pelo docente Daniel Cordeiro na Universidade de São Paulo. Um código antigo de gerador de relatórios fere alguns princípios SOLID bem como não segue um padrão de projeto. O objetivo é refatorar para um novo código, aplicando o padrão Strategy, o Decorator e adicionando novas funcionalidades.

@@ -1,0 +1,3 @@
+# Manipulação de Grafos
+
+Exercício de Programação oferecido pela docente Ariane Machado Lima na disciplina Algoritmo e Estrutura de Dados II pela Universidade de São Paulo (USP). O objetivo do código é implementar grafos tanto em formato de matriz de vértices adjacentes quanto listas adjacentes. Nesse caso há tanto funções de inserção/remoção e operações básicas para cada tipo de implementação, quanto uso de Busca em Largura, Busca em Profundidade, Vértices de Articulação e de Componentes Conectados, que estão mais especificados no arquivo .pdf nesse mesmo diretório.

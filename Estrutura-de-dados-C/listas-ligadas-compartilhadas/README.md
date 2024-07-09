@@ -1,0 +1,3 @@
+# Listas Ligadas Compartilhadas
+
+ Exercício de programação oferecido pela matéria Algortimo e Estrutura de Dados I pelo docente Ivandre Paraboni pela Universidade de São Paulo (USP), e com a contribuição de @JayCesar. O objetivo do programa é, dado duas estruturas de dado em listas ligadas simples de implementação dinâmica, e que podem ou não compartilhar nós, temos o objetivo de remover os compartilhados e tornar as listas circulares. 
